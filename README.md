@@ -1,7 +1,7 @@
 # supreme-carnival
-Python / Machine learning projects
+# **Python / Machine learning projects**
 
-#**Diplomatic missions of Portugal**
+##**Diplomatic missions of Portugal**
 
 **Goal:**
 
@@ -22,7 +22,7 @@ The list of diplomatic missions is scraped from Wikipedia using pandas the read_
 
 -----------------------------------------------------------------------------------------------------
 
-# **Predicting US tornados' magnitude**
+## **Predicting US tornados' magnitude**
 
 **Goal:**
 
