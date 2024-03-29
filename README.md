@@ -1,6 +1,20 @@
 # supreme-carnival
 # **Python / Machine learning projects**
 
+**Visualize percent difference from a selected date**
+
+**Goal**
+
+To visualize percent difference of 4 stocks from a selected date. This was a Tableau challenge but I wanted to attempt to re-create it in Python.
+
+**Data**
+
+The dataset is available on [data.world](https://data.world/missdataviz/wow22w3-stocks-jan22).
+
+**Result:**
+
+
+
 **Diplomatic missions of Portugal**
 
 **Goal:**
