@@ -13,6 +13,7 @@ The dataset is available on [data.world](https://data.world/missdataviz/wow22w3-
 
 **Result:**
 
+![stocks](https://github.com/DevJupyHUB/supreme-carnival/assets/125738232/cad336bb-7efb-4296-af44-594df58a8b08)
 
 
 **Diplomatic missions of Portugal**
