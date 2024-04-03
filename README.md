@@ -11,9 +11,13 @@ To visualize percent difference of 4 stocks from a selected date. This was a Tab
 
 The dataset is available on [data.world](https://data.world/missdataviz/wow22w3-stocks-jan22).
 
-**Result:**
+**Result by Seaborn:**
 
 ![stocks](https://github.com/DevJupyHUB/supreme-carnival/assets/125738232/cad336bb-7efb-4296-af44-594df58a8b08)
+
+**Result by Bokeh:**
+
+![bokeh_viz](https://github.com/DevJupyHUB/supreme-carnival/assets/125738232/10bb84f5-5a28-4893-83aa-7a8b83535fe3)
 
 
 **Diplomatic missions of Portugal**
