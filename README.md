@@ -5,7 +5,7 @@
 
 **Goal**
 
-To visualize percent difference of 4 stocks from a selected date. This was a Tableau challenge but I wanted to attempt to re-create it in Python.
+To replicate a Tableau challenge in Python, visualizing percent difference from a chosen date through both static and interactive charts.
 
 **Data**
 
@@ -15,7 +15,7 @@ The dataset is available on [data.world](https://data.world/missdataviz/wow22w3-
 
 ![stocks_viz](https://github.com/DevJupyHUB/supreme-carnival/assets/125738232/9a7ac958-d330-4c13-9028-e6c47f014ce9)
 
-<iframe src="[https://github.com/DevJupyHUB/supreme-carnival/blob/main/stocks" width="800" height="600"></iframe>
+-------------------------------------------------------------------------------------------------------------------
 
 **Diplomatic missions of Portugal**
 
