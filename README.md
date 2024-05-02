@@ -1,6 +1,22 @@
 # supreme-carnival
 # **Python / Machine learning projects**
 
+**Generative Ai search trends in the United States**
+
+**Goal**
+
+To recreate a #MakeoverMonday Tableau challenge using Python, with the aim of enhancing storytelling by improving the visualization.
+
+**Data**
+
+The dataset is available on [data.world](https://data.world/makeovermonday/generative-ai-search-trends-in-the-united-states).
+
+**Result:**
+
+![gen_ai](https://github.com/DevJupyHUB/supreme-carnival/assets/125738232/de0922c3-0ec7-4f23-ae78-bf8cff1edbf9)
+
+-------------------------------------------------------------------------------------------------------------------
+
 **Visualize percent difference from a selected date**
 
 **Goal**
