@@ -1,6 +1,22 @@
 # supreme-carnival
 # **Python / Machine learning projects**
 
+**Rat Sightings in NYC**
+
+**Goal**
+
+The goal is to attempt creating a plot similar to one of the #WOW Tableau challenge using Python.
+
+**Data**
+
+The dataset is available on [kaggle](https://www.kaggle.com/datasets/new-york-city/nyc-rat-sightings).
+
+**Result:**
+
+![oh_rats](https://github.com/DevJupyHUB/supreme-carnival/assets/125738232/2fa6eea0-c73b-47ff-89cb-18012e957901)
+
+--------------------------------------------------------------------------------------------------------------------
+
 **Generative Ai search trends in the United States**
 
 **Goal**
