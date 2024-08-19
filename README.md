@@ -1,6 +1,22 @@
 # supreme-carnival
 # **Python / Machine learning projects**
 
+**Icebergs 2021**
+
+**Goal**
+
+The goal is to plot all icenbergs that were recorded in 2021 per season.
+
+**Data**
+
+The dataset is available on [NSIDC](https://doi.org/10.7265/N56Q1V5R).
+
+**Result:**
+
+![icebergs_2021](https://github.com/user-attachments/assets/84d4d14b-7222-46f5-a8ec-bd5fac2dc360)
+
+--------------------------------------------------------------------------------------------------------------------
+
 **Rat Sightings in NYC**
 
 **Goal**
