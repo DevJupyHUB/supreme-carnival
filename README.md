@@ -1,6 +1,14 @@
 # supreme-carnival
 # **Python / Machine learning projects**
 
+**Merry Christmas!** (Drawn with Python)
+
+**Result:**
+
+![xmas_card](https://github.com/user-attachments/assets/201c43cd-3e61-4d8e-b528-a13c1fb43246)
+
+--------------------------------------------------------------------------------------------------------------------
+
 **Icebergs 2021**
 
 **Goal**
