@@ -1,9 +1,20 @@
 # supreme-carnival
 # **Python / Machine learning projects**
 
-**Merry Christmas!** (Drawn with Python)
+**More Parks, Please!** 
 
-**Result:**
+**Goal**
+
+The goal is to get OSM data and plot parks of EU capitals sorting by park ratio.
+
+**Data**
+OSM 
+
+![OSM_EU_capitals_parks](https://github.com/user-attachments/assets/778055e6-b563-46c7-be6a-42cf3828bae0)
+
+--------------------------------------------------------------------------------------------------------------------
+
+**Merry Christmas!** (Drawn with Python)
 
 ![xmas_card](https://github.com/user-attachments/assets/201c43cd-3e61-4d8e-b528-a13c1fb43246)
 
@@ -19,7 +30,6 @@ The goal is to plot all icenbergs that were recorded in 2021 per season.
 
 The dataset is available on [NSIDC](https://doi.org/10.7265/N56Q1V5R).
 
-**Result:**
 
 ![icebergs_2021](https://github.com/user-attachments/assets/84d4d14b-7222-46f5-a8ec-bd5fac2dc360)
 
@@ -35,7 +45,6 @@ The goal is to attempt creating a plot similar to one of the #WOW Tableau challe
 
 The dataset is available on [kaggle](https://www.kaggle.com/datasets/new-york-city/nyc-rat-sightings).
 
-**Result:**
 
 ![oh_rats](https://github.com/DevJupyHUB/supreme-carnival/assets/125738232/2fa6eea0-c73b-47ff-89cb-18012e957901)
 
@@ -51,8 +60,6 @@ To recreate a #MakeoverMonday Tableau challenge using Python, with the aim of en
 
 The dataset is available on [data.world](https://data.world/makeovermonday/generative-ai-search-trends-in-the-united-states).
 
-**Result:**
-
 ![gen_ai](https://github.com/DevJupyHUB/supreme-carnival/assets/125738232/de0922c3-0ec7-4f23-ae78-bf8cff1edbf9)
 
 -------------------------------------------------------------------------------------------------------------------
@@ -66,8 +73,6 @@ To replicate a Tableau challenge in Python, visualizing percent difference from 
 **Data**
 
 The dataset is available on [data.world](https://data.world/missdataviz/wow22w3-stocks-jan22).
-
-**Result:**
 
 ![stocks_viz](https://github.com/DevJupyHUB/supreme-carnival/assets/125738232/9a7ac958-d330-4c13-9028-e6c47f014ce9)
 
@@ -83,7 +88,6 @@ To look at what type of portuguese diplomatic missions are in the world and wher
 
 The list of diplomatic missions is scraped from Wikipedia using pandas the read_html() method. After that a thorough data cleaning took place. The cleaned data was joined with a country codes dataset from Kaggle. Finally, the data was visualized by using a waffle chart and two coropleth map charts.
 
-**Results:**
 
 ![image](https://github.com/DevJupyHUB/supreme-carnival/assets/125738232/8d1e3e75-72d5-4e21-bff9-7a023d1969dd)
 
@@ -104,7 +108,7 @@ The main goal is to explore the US Tornado data by performing exploratory data a
 
 The data is from NOAA and can be found on [Kaggle](https://www.kaggle.com/datasets/sujaykapadnis/tornados).
 
-**Results:**
+**Summary:**
 
 Tornados occur in all US states but the most of them occure atthe middle and at the east states. The number of tornado occurencies seems to be increasing over time but further analysis relvealed that only the number weak tornados shows a strong upward trend while the number of strong tornados doesn't seem to change. Most tornados likley tend to occure in May and June. They happen at any time but most of them seem to occure at afternoon and evening hours. Texas is the most heavily hit by tornados comparing to other states but the most devastating tornados occur in Oklahoma. It is observed that the more powerful the tornado, the longer and wider its path but most tornadoes are neither long nor wide, big and powerful tornadoes are rare. 2011 was oustanding in terms of injuries, fatalities and loss in USD and Texas, Alabama and Oklahoma states suffered the most.
 
