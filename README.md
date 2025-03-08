@@ -1,14 +1,7 @@
 # supreme-carnival
-# **Python / Machine learning projects**
+# **This and that with Python**
 
 **More Parks, Please!** 
-
-**Goal**
-
-The goal is to get OSM data and plot parks of EU capitals sorting by park ratio.
-
-**Data**
-OSM 
 
 ![OSM_EU_capitals_parks](https://github.com/user-attachments/assets/778055e6-b563-46c7-be6a-42cf3828bae0)
 
@@ -20,16 +13,7 @@ OSM
 
 --------------------------------------------------------------------------------------------------------------------
 
-**Icebergs 2021**
-
-**Goal**
-
-The goal is to plot all icenbergs that were recorded in 2021 per season.
-
-**Data**
-
-The dataset is available on [NSIDC](https://doi.org/10.7265/N56Q1V5R).
-
+**Icebergs**
 
 ![icebergs_2021](https://github.com/user-attachments/assets/84d4d14b-7222-46f5-a8ec-bd5fac2dc360)
 
@@ -37,28 +21,11 @@ The dataset is available on [NSIDC](https://doi.org/10.7265/N56Q1V5R).
 
 **Rat Sightings in NYC**
 
-**Goal**
-
-The goal is to attempt creating a plot similar to one of the #WOW Tableau challenge using Python.
-
-**Data**
-
-The dataset is available on [kaggle](https://www.kaggle.com/datasets/new-york-city/nyc-rat-sightings).
-
-
 ![oh_rats](https://github.com/DevJupyHUB/supreme-carnival/assets/125738232/2fa6eea0-c73b-47ff-89cb-18012e957901)
 
 --------------------------------------------------------------------------------------------------------------------
 
 **Generative Ai search trends in the United States**
-
-**Goal**
-
-To recreate a #MakeoverMonday Tableau challenge using Python, with the aim of enhancing storytelling by improving the visualization.
-
-**Data**
-
-The dataset is available on [data.world](https://data.world/makeovermonday/generative-ai-search-trends-in-the-united-states).
 
 ![generative_ai_search_trends](https://github.com/user-attachments/assets/0b13138d-d165-4e84-a92e-841ace47d2c5)
 
@@ -66,15 +33,7 @@ The dataset is available on [data.world](https://data.world/makeovermonday/gener
 
 **Visualize percent difference from a selected date**
 
-**Goal**
-
-To replicate a Tableau challenge in Python, visualizing percent difference from a chosen date through both static and interactive charts.
-
-**Data**
-
-The dataset is available on [data.world](https://data.world/missdataviz/wow22w3-stocks-jan22).
-
-![stocks_viz](https://github.com/DevJupyHUB/supreme-carnival/assets/125738232/9a7ac958-d330-4c13-9028-e6c47f014ce9)
+![stock_prices](https://github.com/user-attachments/assets/8ba285d9-1b9a-4bd8-91be-b2e04b20f3e8)
 
 -------------------------------------------------------------------------------------------------------------------
 
