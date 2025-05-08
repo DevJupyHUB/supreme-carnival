@@ -1,9 +1,9 @@
 # supreme-carnival
 # **This and that with Python**
 
-**More Parks, Please!** 
+[More parks, please!](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/more_parks.ipynb)
 
-![OSM_EU_capitals_parks](https://github.com/user-attachments/assets/778055e6-b563-46c7-be6a-42cf3828bae0)
+<img src="/plots/OSM_parks.png" width="75%"/>
 
 [Merry Xmas!](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/Xmas_card.ipynb)
 
