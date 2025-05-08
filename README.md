@@ -5,39 +5,28 @@
 
 ![OSM_EU_capitals_parks](https://github.com/user-attachments/assets/778055e6-b563-46c7-be6a-42cf3828bae0)
 
---------------------------------------------------------------------------------------------------------------------
-
 **Merry Christmas!** (Drawn with Python)
 
 ![xmas_card](https://github.com/user-attachments/assets/201c43cd-3e61-4d8e-b528-a13c1fb43246)
-
---------------------------------------------------------------------------------------------------------------------
 
 **Icebergs**
 
 ![icebergs_2021](https://github.com/user-attachments/assets/84d4d14b-7222-46f5-a8ec-bd5fac2dc360)
 
---------------------------------------------------------------------------------------------------------------------
-
 **Rat Sightings in NYC**
 
 ![oh_rats](https://github.com/DevJupyHUB/supreme-carnival/assets/125738232/2fa6eea0-c73b-47ff-89cb-18012e957901)
-
---------------------------------------------------------------------------------------------------------------------
 
 **Generative Ai search trends in the United States**
 
 ![generative_ai_search_trends](https://github.com/user-attachments/assets/0b13138d-d165-4e84-a92e-841ace47d2c5)
 
+[Stocks](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-04-29.ipynb)
+
+<img src="/plots/stock_prices.png" width="75%"/>
 -------------------------------------------------------------------------------------------------------------------
 
-**Visualize percent difference from a selected date**
-
-![stock_prices](https://github.com/user-attachments/assets/8ba285d9-1b9a-4bd8-91be-b2e04b20f3e8)
-
--------------------------------------------------------------------------------------------------------------------
-
-**Diplomatic missions of Portugal**
+[Diplomatic missions of Portugal](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/diplomatic-missions-of-portugal.ipynb)
 
 **Goal:**
 
@@ -57,7 +46,7 @@ The list of diplomatic missions is scraped from Wikipedia using pandas the read_
 
 -----------------------------------------------------------------------------------------------------
 
-**Predicting US tornados' magnitude**
+[Predicting US tornados' magnitude](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/us-tornados.ipynb)
 
 **Goal:**
 
