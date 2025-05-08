@@ -13,9 +13,9 @@
 
 ![icebergs_2021](https://github.com/user-attachments/assets/84d4d14b-7222-46f5-a8ec-bd5fac2dc360)
 
-**Rat Sightings in NYC**
+[Oh, Rats](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/Oh%20Rats.ipynb)
 
-![oh_rats](https://github.com/DevJupyHUB/supreme-carnival/assets/125738232/2fa6eea0-c73b-47ff-89cb-18012e957901)
+<img src="/plots/oh_rats.png" width="75%"/>
 
 [Gen AI](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/GEN_AI.ipynb)
 
