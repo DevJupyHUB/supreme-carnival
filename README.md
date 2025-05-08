@@ -9,9 +9,9 @@
 
 ![xmas_card](https://github.com/user-attachments/assets/201c43cd-3e61-4d8e-b528-a13c1fb43246)
 
-**Icebergs**
+[Icebergs](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/Icebergs.ipynb)
 
-![icebergs_2021](https://github.com/user-attachments/assets/84d4d14b-7222-46f5-a8ec-bd5fac2dc360)
+<img src="/plots/icebergs.png" width="75%"/>
 
 [Oh, Rats](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/Oh%20Rats.ipynb)
 
