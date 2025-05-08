@@ -17,13 +17,14 @@
 
 ![oh_rats](https://github.com/DevJupyHUB/supreme-carnival/assets/125738232/2fa6eea0-c73b-47ff-89cb-18012e957901)
 
-**Generative Ai search trends in the United States**
+[Gen AI](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/GEN_AI.ipynb)
 
-![generative_ai_search_trends](https://github.com/user-attachments/assets/0b13138d-d165-4e84-a92e-841ace47d2c5)
+<img src="/plots/gen_ai.png" width="75%"/>
 
 [Stocks](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-04-29.ipynb)
 
 <img src="/plots/stock_prices.png" width="75%"/>
+
 -------------------------------------------------------------------------------------------------------------------
 
 [Diplomatic missions of Portugal](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/diplomatic-missions-of-portugal.ipynb)
