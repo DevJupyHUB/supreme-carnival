@@ -5,9 +5,9 @@
 
 ![OSM_EU_capitals_parks](https://github.com/user-attachments/assets/778055e6-b563-46c7-be6a-42cf3828bae0)
 
-**Merry Christmas!** (Drawn with Python)
+[Merry Xmas!](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/Xmas_card.ipynb)
 
-![xmas_card](https://github.com/user-attachments/assets/201c43cd-3e61-4d8e-b528-a13c1fb43246)
+<img src="/plots/Merry Xmas.png" width="75%"/>
 
 [Icebergs](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/Icebergs.ipynb)
 
