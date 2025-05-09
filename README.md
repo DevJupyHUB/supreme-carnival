@@ -13,7 +13,7 @@
 
 <img src="/plots/icebergs.png" width="75%"/>
 
-[Oh, Rats](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/Oh%20Rats.ipynb)
+[Oh, Rats](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/Oh%20Rats.ipynb) (Dataset is availaible on [Kaggle](https://www.kaggle.com/datasets/new-york-city/nyc-rat-sightings))
 
 <img src="/plots/oh_rats.png" width="75%"/>
 
