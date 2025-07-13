@@ -1,6 +1,10 @@
 # supreme-carnival
 # **This and that with Python**
 
+[Beliefs](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/my_books.ipynb)
+
+<img src="/plots/2025-06-30.png" width="75%"/>
+
 [Cosy reading corner](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/my_books.ipynb)
 
 <img src="/plots/my_books.png" width="75%"/>
