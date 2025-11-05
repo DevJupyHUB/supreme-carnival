@@ -1,7 +1,7 @@
 # supreme-carnival
 # **This and that with Python**
 
-[Beliefs](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/my_books.ipynb)
+[Beliefs](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/Beliefs.ipynb)
 
 <img src="/plots/2025-06-30.png" width="75%"/>
 
