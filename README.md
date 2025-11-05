@@ -29,7 +29,7 @@
 
 <img src="/plots/gen_ai.png" width="75%"/>
 
-[Stocks](https://github.com/DevJupyHUB/bookish-octo-doodle/blob/main/code/2025-04-29.ipynb)
+[Stocks](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/Stocks.ipynb)
 
 <img src="/plots/stock_prices.png" width="75%"/>
 
