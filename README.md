@@ -1,6 +1,10 @@
 # supreme-carnival
 # **This and that with Python**
 
+[City grids](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/unique_city_layouts.ipynb)
+
+<img src="/plots/city_grids.png" width="75%"/>
+
 [Beliefs](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/Beliefs.ipynb)
 
 <img src="/plots/2025-06-30.png" width="75%"/>
