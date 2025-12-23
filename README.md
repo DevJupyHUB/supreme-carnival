@@ -1,6 +1,10 @@
 # supreme-carnival
 # **This and that with Python**
 
+[xmas_trees](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/xmas_trees.ipynb)
+
+<img src="/plots/Merry_Xmas.png" width="75%"/>
+
 [City grids](https://github.com/DevJupyHUB/supreme-carnival/blob/main/code/unique_city_layouts.ipynb)
 
 <img src="/plots/city_grids.png" width="75%"/>
