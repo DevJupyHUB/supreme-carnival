@@ -1,6 +1,10 @@
 # **This and that with Python**
 
-[TCC](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/tcc.ipynb)
+[Sea surface temperature anomalies ](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/sst.ipynb)
+
+<img src="/plots/sst.png" width="75%"/>
+
+[Total Cloud Cover](https://github.com/DevJupyHUB/my-random-dataviz-with-matplotlib/blob/main/code/tcc.ipynb)
 
 <img src="/plots/tcc.png" width="75%"/>
 
